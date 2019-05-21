@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes");
+
+h2{
+	font-family: 'Great Vibes', cursive;
+	color: #343a40;
+}
+
+p{
+	text-align: justify;
+}
+
+.articulo{
+	border-bottom: 2px solid #343a40;
+}
+
+.nav-link1{
+	color: black;
+}
+.textofinal{
+	color: white;
+	text-align: center;
+	padding: 1rem;
+	margin: 0;
+	font-weight: lighter;
+}
+
+.salto-final{
+	background: white;
+}
